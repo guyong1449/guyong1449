@@ -2,7 +2,7 @@
 
 I'm an undergraduate researcher at **Duke Kunshan University** studying Applied Mathematics and Computational Sciences on the Computer Science track. I work on efficient AI inference and the systems that make models useful in practice.
 
-I use **@guyong1449** on GitHub and **GUYONG** for my personal site. Both sites below are mine: the research homepage is my CV and project overview; the personal site holds my notes and creative work.
+I use **@guyong1449** on GitHub and **GUYONG** for my personal site. The research homepage is my CV and project overview, and the personal site holds my notes and creative work.
 
 - **Currently:** training-free speculative decoding, token reuse, and batched C++ draft proposal for LLM inference.
 - **Previously:** MEMOIR for faster mobile GUI agents, distributed pretraining on PACE satellite imagery, and real-time computer vision deployment on Ascend NPUs.
